@@ -1,0 +1,39 @@
+# C++ build directories
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# CLion IDE files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Compiled files
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Executables
+city_road_network_analyzer
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local development files
+*.local
+*.swp
+*.swo
+*~
